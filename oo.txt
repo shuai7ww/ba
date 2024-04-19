@@ -1447,9 +1447,27 @@
 {"key":"天下美食","name":"🅱天下┃美食","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/HeChengChaXiu.jar","ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩美食.json"},
 
 {"key":"戏曲杂苑","name":"🅱戏曲┃杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/HeChengChaXiu.jar","ext":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/哔哩戏曲.json"},
-//--------------------------------
+//--------------------------------https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json-https://fm.t4tv.hz.cz/json/market.json
 {"key":"WebDAV","name":"WebDAV","type":3,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar","api":"csp_WebDAV","searchable":0,"changeable":0,"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/json/webdav.json"},
 {"key":"JustLive","name":"JustLive","type":3,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar","api":"csp_JustLive","searchable":1,"changeable":0},
+
+{
+      "key": "商店",
+      "name": "🅱商店","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/json/market.json"
+    },
+{
+      "key": "酷狗",
+      "name": "酷狗","jar":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
+    },
 //-----------------------------
       {
          "key": " 在线┃直播2",
