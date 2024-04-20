@@ -915,7 +915,7 @@ HBO HD,https://edge1.laotv.la/live/HBO/index.m3u8#https://edge2.laotv.la/live/HB
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3#http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-无线新闻,https://i.125011.xyz/tvb.php?id=0&hq#http://sz.l68.fun:9001/bysid/83
+无线新闻,https://i.125011.xyz/tvb.php?id=0&hq#https://i.125011.xyz/tvb.php?id=0&hq#http://sz.l68.fun:9001/bysid/83
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123#http://107.167.12.58:27347/livehttpplay?channel_id=30024#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 无线新闻,https://www.yibababa.com/vod
 无线财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq#http://107.167.12.58:27347/livehttpplay?channel_id=20121
