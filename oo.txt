@@ -1563,8 +1563,8 @@
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
         },
 	{"name":"🎯BD线1","type":0,"url":"https://www.8090g.cn/?url="},
-{"name":"🎯BD线2","type":0,"url":"https://jx.quankan.app/?url="},
-	{"name":"🎯BD线3,"type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"🎯BD线2","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"🎯BD线3","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 	{
             "name": "🎯BD线4",
             "type": 0,
@@ -1573,11 +1573,12 @@
         },{
             "name": "🎯BD线5",
             "type": 0,
-            "url": "https://vip.bljiex.com/?v="},//https://www.8090g.cn/?url=
-	{"name":"🎯BD线6","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+            "url": "https://vip.bljiex.com/?v=",//https://www.8090g.cn/?url=1
+            "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+	{"name":"🎯BD线6","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 	{"name":"🎯BD线7","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-	{"name":"🎯备1","type":0,"url":"https://jx.yparse.com/index.php?url="},
-	{"name":"🎯备2","type":0,"url":"https://jx.aidouer.net/?url="},
+	{"name":"🎯备1","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"🎯备2","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 	{"name":"🎯备3","type":0,"url":"https://jx.yangtu.top?url="}
     ],
 	"update": "aHR0cHM6Ly90aW0tc3MudGsvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0hvbmdGZWlRL2xpdmUvbWFzdGVyLw==",
