@@ -1542,43 +1542,44 @@
         //{"name": "💧福永","type": 1,"url": "http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
         //{"name": "💧福海","type": 1,"url": "https://api.huohua.vip/api/?key=8eTRVUKvl0tvEzlvzO&url="},//http://xhww.fun:63/小米/DEMO.json
         {
-            "name": "🎯线1",
+            "name": "🎯HD线1",
             "type": 0,
             "url": "https://www.yemu.xyz/v/d.php?url=",//https://jx.xmflv.com/?url=
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
         },{
-            "name": "🎯线2",
-            "type": 0,
-            "url": "https://vip.bljiex.com/?v=",//https://jx.xmflv.com/?url=
-            "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
-        },{
-            "name": "🎯线3",
+            "name": "🎯HD线2",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",//https://jx.777jiexi.com/player/?url=
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
         },{
-            "name": "🎯线4",
+            "name": "🎯HD线3",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",//https://jx.nnxv.cn/tv.php?url=
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
         },{
-            "name": "🎯线5",
+            "name": "🎯HD线4",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url=",//https://jx.jsonplayer.com/player/?url=
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
+        },
+	{"name":"🎯BD线1","type":0,"url":"https://www.8090g.cn/?url="},
+{"name":"🎯BD线2","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"🎯BD线3,"type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+	{
+            "name": "🎯BD线4",
+            "type": 0,
+            "url": "https://vip.bljiex.com/?v=",//https://jx.xmflv.com/?url=
+            "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}
         },{
-            "name": "🎯线6",
+            "name": "🎯BD线5",
             "type": 0,
             "url": "https://vip.bljiex.com/?v=",//https://www.8090g.cn/?url=
             "ext": {"flag": ["qiyi","iqiyi","youku","qq","mgtv","le","bilibili","sohu"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-{"name":"🎯线7","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-	{"name":"🎯线8","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-	{"name":"🎯线9","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-	{"name":"🎯线10","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
-	{"name":"🎯线11","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-	{"name":"🎯线12","type":0,"url":"https://www.8090g.cn/?url="},
-	{"name":"🎯线13","type":0,"url":"https://jx.yangtu.top?url="},
-	{"name":"🎯线14","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="}
+	{"name":"🎯BD线6","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"🎯BD线7","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+	{"name":"🎯备1","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+	{"name":"🎯备2","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
+	{"name":"🎯备3","type":0,"url":"https://jx.yangtu.top?url="}
     ],
 	"update": "aHR0cHM6Ly90aW0tc3MudGsvaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0hvbmdGZWlRL2xpdmUvbWFzdGVyLw==",
     "murls": [
