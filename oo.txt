@@ -1,10 +1,10 @@
 {
 //资料来自于网络，介意请联系删除，不做商业用途，仅作学习。
-"spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/shuai7wl/ba/xx/jar/fan.txt",
+"spider": "https://github.moeyy.xyz/raw.githubusercontent.com/shuai7wl/ba/xx/jar/fan.txt",
 	"warningText": "学习自用，切勿付费购买。",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives":[
-{"name":"直播","type":0,"url":"https://gh.xxooo.cf/https://raw.githubusercontent.com/shuai7ww/ba/xx/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"直播","type":0,"url":"https://github.moeyy.xyz/raw.githubusercontent.com/shuai7ww/ba/xx/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"https://diyp2.112114.xyz/?ch={name}&date={date}","logo":"https://diyp2.112114.xyz/logo/{name}.png"}
 ],
 "sites": [
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/shuai7wl/ba/xx/jar/xbpq.txt",
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/shuai7wl/ba/xx/jar/xbpq.txt",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -96,7 +96,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/shuai7wl/ba/xx/jar/xbpq.txt",
+      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/shuai7wl/ba/xx/jar/xbpq.txt",
       "ext": {
         "站名": "免费看影视",
         "作者": "yydf",
