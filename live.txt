@@ -1197,10 +1197,20 @@ CHC-动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/i
 CHC-高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 
 🎯港·澳·台,#genre#
-中天新闻台,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
-中天新闻备,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天新闻测,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
-有线新闻台,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+TVB好莱坞电影,http://r.jdshipin.com/QFhCq
+无线星河频道,http://r.jdshipin.com/sXuuD
+无线功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+无线无线财经,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线Plus台,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+无线缓冲10秒,http://zsntlqj.xicp.net:8896/bysid/83
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
+澳门莲花频道,http://php.jdshipin.com:8880/amlh.php
+4K南国都市台,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+
 无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 无线新闻备,http://113.74.13.96:63023/stream/channelid/2121222530?ticket=28b79930ed7195e29dd946e9c30775569b3f7364&profile=pass
 Now新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8
@@ -1219,6 +1229,12 @@ Now英超台,http://220.246.126.166:9981/stream/channel/dc8db4742fcbe0da67fa4171
 Now英超备,http://106.14.34.43:9092/HK/nowty2/hls.m3u8
 Now体育台,http://58.87.99.251:8090/HK1/nowbaogu/hls.m3u8
 Now体育备,http://106.14.34.43:9092/HK/nowty/hls.m3u8
+
+中天新闻台,http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+中天新闻备,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天新闻测,http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
+有线新闻台,http://119.23.61.191:8088/HK/hoy78/hls.m3u8
+
 无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线功夫台,https://ali.hlspull.yximgs.com/live/haiou999tvbyzwx.flv#https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -1287,12 +1303,20 @@ HBO HD,https://edge1.laotv.la/live/HBO/index.m3u8#https://edge2.laotv.la/live/HB
 龙祥时代,https://edge1.laotv.la/live/Longxiang/index.m3u8#https://edge2.laotv.la/live/Longxiang/index.m3u8
 
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://live.cooltv.top/tv/tvb.php?id=2
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3#http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 无线新闻,https://i.125011.xyz/tvb.php?id=0&hq#https://i.125011.xyz/tvb.php?id=0&hq#http://sz.l68.fun:9001/bysid/83
 无线新闻,http://107.167.12.58:27347/livehttpplay?channel_id=20123#http://107.167.12.58:27347/livehttpplay?channel_id=30024#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
 无线新闻,https://www.yibababa.com/vod
-无线财经资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq#http://107.167.12.58:27347/livehttpplay?channel_id=20121
+无线Plus台,http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+无线缓冲10秒,http://zsntlqj.xicp.net:8896/bysid/83
+无线财经资讯台,http://mtw.so/5Vma8v#http://107.167.12.58:27347/livehttpplay?channel_id=20121
 无线财经资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30019
 无线财经资讯台,http://107.167.12.58:27347/livehttpplay?channel_id=30022
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
